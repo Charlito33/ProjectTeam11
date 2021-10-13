@@ -14,6 +14,12 @@ The Project of the Team 11 from Ada Lovelace Hackathon
 - Anais G
 - Nathalia L
 
+# Informations
+
+**Tested on :**
+- Pixel 2 (**API 30** + Google **Play Services**) **[Emulated]**
+- Poco X3 NFC (**API 30** + Google **Play Services**) **[Hardware]**
+
 # License
 
 CC BY-NC-ND
