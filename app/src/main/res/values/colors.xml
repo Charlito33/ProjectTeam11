@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Global colors -->
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
@@ -15,4 +16,9 @@
     <color name="black_51">#202233</color>
 
     <color name="white_214">#bcbfd6</color>
+
+    <!-- Specific Colors -->
+    <color name="login_button_background">@color/black_51</color>
+    <color name="login_button_color">@color/white_214</color>
+    <color name="profile_picture_border">@color/black_51</color>
 </resources>

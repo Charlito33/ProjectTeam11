@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Specific Colors -->
+    <color name="login_button_background">@color/white_214</color>
+    <color name="login_button_color">@color/black_51</color>
+    <color name="profile_picture_border">@color/white_214</color>
+</resources>

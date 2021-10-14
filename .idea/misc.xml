@@ -4,18 +4,24 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Dev/Java/AndroidStudio/ProjectTeam11/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3609375" />
+        <entry key="..\:/Dev/Java/AndroidStudio/ProjectTeam11/app/src/main/res/drawable/button_color.xml" value="0.20104166666666667" />
+        <entry key="..\:/Dev/Java/AndroidStudio/ProjectTeam11/app/src/main/res/drawable/ic_barcode.xml" value="0.20104166666666667" />
         <entry key="..\:/Dev/Java/AndroidStudio/ProjectTeam11/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.3609375" />
         <entry key="..\:/Dev/Java/AndroidStudio/ProjectTeam11/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.3609375" />
         <entry key="..\:/Dev/Java/AndroidStudio/ProjectTeam11/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3609375" />
         <entry key="..\:/Dev/Java/AndroidStudio/ProjectTeam11/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.3609375" />
         <entry key="..\:/Dev/Java/AndroidStudio/ProjectTeam11/app/src/main/res/drawable/ic_profile.xml" value="0.3609375" />
+        <entry key="..\:/Dev/Java/AndroidStudio/ProjectTeam11/app/src/main/res/drawable/styles.xml" value="0.20104166666666667" />
         <entry key="..\:/Dev/Java/AndroidStudio/ProjectTeam11/app/src/main/res/drawable/tab_color.xml" value="0.3609375" />
         <entry key="..\:/Dev/Java/AndroidStudio/ProjectTeam11/app/src/main/res/layout/activity_barcode.xml" value="0.33" />
+        <entry key="..\:/Dev/Java/AndroidStudio/ProjectTeam11/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Dev/Java/AndroidStudio/ProjectTeam11/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
         <entry key="..\:/Dev/Java/AndroidStudio/ProjectTeam11/app/src/main/res/layout/content_barcode.xml" value="0.18854166666666666" />
         <entry key="..\:/Dev/Java/AndroidStudio/ProjectTeam11/app/src/main/res/layout/fragment_dashboard.xml" value="0.2957427536231884" />
         <entry key="..\:/Dev/Java/AndroidStudio/ProjectTeam11/app/src/main/res/layout/fragment_home.xml" value="0.33" />
         <entry key="..\:/Dev/Java/AndroidStudio/ProjectTeam11/app/src/main/res/layout/fragment_notifications.xml" value="0.2957427536231884" />
+        <entry key="..\:/Dev/Java/AndroidStudio/ProjectTeam11/app/src/main/res/layout/fragment_profile.xml" value="0.33" />
+        <entry key="..\:/Dev/Java/AndroidStudio/ProjectTeam11/app/src/main/res/layout/fragment_rewards.xml" value="0.18854166666666666" />
         <entry key="..\:/Dev/Java/AndroidStudio/ProjectTeam11/app/src/main/res/menu/bottom_nav_menu.xml" value="0.34479166666666666" />
       </map>
     </option>
