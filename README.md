@@ -24,7 +24,7 @@ The Project of the Team 11 from Ada Lovelace Hackathon
 
 <img src="https://charlito33.fr.nf/team11/project/cdn/screenshots/141021n/image0.jpg" width="200" />
 <img src="https://charlito33.fr.nf/team11/project/cdn/screenshots/141021n/image1.jpg" width="200" />
-<img src="https://charlito33.fr.nf/team11/project/cdn/screenshots/141021n/image2.jpg" width="200" />
+<img src="https://charlito33.fr.nf/team11/project/cdn/screenshots/141021n/image2.jpg?" width="200" />
 
 **Screenshots of Version 141021n**
 
