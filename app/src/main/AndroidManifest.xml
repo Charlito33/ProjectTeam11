@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.adalovelacehackaton.teameleven.project">
+    package="org.adalovelacehackaton.teameleven.ecoscan">
 
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -13,12 +13,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Project">
         <activity
+            android:name=".RegisterActivity"
+            android:exported="true" />
+        <activity
+            android:name=".AddItemActivity"
+            android:exported="true" />
+        <activity
             android:name=".LoginActivity"
             android:exported="true" />
         <activity
             android:name=".BarcodeActivity"
             android:exported="true"
-            android:label="@string/title_activity_barcode"
+            android:label="@string/title_barcode"
             android:theme="@style/Theme.Project.NoActionBar" />
 
         <meta-data

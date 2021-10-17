@@ -4,4 +4,11 @@
     <color name="login_button_background">@color/white_214</color>
     <color name="login_button_color">@color/black_51</color>
     <color name="profile_picture_border">@color/white_214</color>
+    <color name="cardview_background">@color/black_51</color>
+    <color name="black_and_white">@color/white_214</color>
+    <color name="white_and_black">@color/black_51</color>
+
+    <!-- Wastes Colors -->
+    <color name="other_color">#e6c8be</color>
+    <color name="glass_color">#c5d9e8</color>
 </resources>

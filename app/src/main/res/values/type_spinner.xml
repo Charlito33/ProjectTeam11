@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="types_array">
+        <item>Bio Degradable</item>
+        <item>Cardboard / Paper</item>
+        <item>Other</item>
+        <item>Glass</item>
+        <item>Plastic</item>
+        <item>Textile</item>
+        <item>Metal</item>
+    </string-array>
+</resources>

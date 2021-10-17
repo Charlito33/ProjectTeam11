@@ -1,14 +1,16 @@
 <resources>
-    <string name="app_name">Project</string>
-    <string name="preferences_file_key">preferences</string>
+    <string name="app_name" translatable="false">EcoScan</string>
+    <string name="preferences_file_key" translatable="false">preferences</string>
 
     <string name="title_home">Home</string>
     <string name="title_rewards">Rewards</string>
     <string name="title_profile">Profile</string>
 
+    <string name="points_label">Points : </string>
+    <string name="points_placeholder" translatable="false">0</string>
+
     <string name="scan_item">Scan Item</string>
-    <string name="title_activity_barcode">BarcodeActivity</string>
-    <string name="barcode_scanner_title">Barcode Scanner</string>
+    <string name="title_barcode">Barcode Scanner</string>
     <string name="barcode_scanner_placeholder">Scan an item to start !</string>
 
     <string name="title_login">Login</string>
@@ -18,4 +20,38 @@
 
     <string name="username_placeholder">Username</string>
     <string name="disconnect">Disconnect</string>
+
+    <string name="button_check_item">Check Item</string>
+
+    <string name="add_item_title">Add Item</string>
+    <string name="scancode">Barcode / Scancode</string>
+    <string name="name">Name</string>
+    <string name="name_hint">Item Name</string>
+    <string name="type">Type</string>
+    <string name="weight">Weight (g)</string>
+    <string name="weight_hint">Item Weight (in grams)</string>
+    <string name="add_item_button">Add Item</string>
+    <string name="create_new_item_entry">Create new Item Entry</string>
+
+    <string name="ok">OK</string>
+    <string name="wait">Wait...</string>
+    <string name="add">Add</string>
+
+    <string name="bio_degradable">Bio Degradable</string>
+    <string name="cardboard_paper">Carboard/Paper</string>
+    <string name="other">Other</string>
+    <string name="glass">Glass</string>
+    <string name="plastic">Plastic</string>
+    <string name="textile">Textile</string>
+    <string name="metal">Metal</string>
+    <string name="image_logo_description">EcoScan Logo</string>
+    <string name="title_register">Register</string>
+    <string name="input_email_hint">Email</string>
+    <string name="input_firstname_hint">Firstname</string>
+    <string name="input_lastname_hint">Lastname</string>
+    <string name="input_password_confirm_hint">Confirm Password</string>
+    <string name="button_register">Register</string>
+    <string name="login_register">Click here to register</string>
+    <string name="register_login">Click here to login</string>
+    <string name="ranking_label">Ranking :</string>
 </resources>

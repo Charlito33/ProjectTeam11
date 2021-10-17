@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_home">Accueil</string>
+    <string name="title_rewards">Récompenses</string>
+    <string name="title_profile">Profil</string>
+    <string name="scan_item">Scanner un Objet</string>
+    <string name="title_barcode">Scanneur</string>
+    <string name="barcode_scanner_placeholder">Scannez un Objet pour commencer !</string>
+    <string name="title_login">Connexion</string>
+    <string name="login_submit">Se Connecter</string>
+    <string name="input_username_hint">Pseudo</string>
+    <string name="input_password_hint">Mot de Passe</string>
+    <string name="username_placeholder">Pseudo</string>
+    <string name="disconnect">Déconnexion</string>
+    <string name="button_check_item">Vérifier l\'Objet</string>
+    <string name="add_item_title">Ajouter l\'Objet</string>
+    <string name="scancode">Code barre / Code de Scan</string>
+    <string name="name">Nom</string>
+    <string name="name_hint">Nom de l\'Objet</string>
+    <string name="type">Type</string>
+    <string name="weight">Poids (g)</string>
+    <string name="weight_hint">Poids de l\'objet (en grammes)</string>
+    <string name="add_item_button">Ajouter l\'Objet</string>
+    <string name="create_new_item_entry">Créer une nouvelle entrée</string>
+    <string name="ok">Ok</string>
+    <string name="wait">Patientez...</string>
+    <string name="bio_degradable">Bio Dégradable / Compostable</string>
+    <string name="cardboard_paper">Carton / Papier</string>
+    <string name="other">Autre / Divers</string>
+    <string name="glass">Verre</string>
+    <string name="plastic">Plastique</string>
+    <string name="textile">Textile</string>
+    <string name="metal">Métaux</string>
+    <string name="add">Ajouter</string>
+    <string name="image_logo_description">EcoScan Logo</string>
+    <string name="points_label">"Points : "</string>
+    <string name="title_register">Créer un Compte</string>
+    <string name="input_email_hint">Email</string>
+    <string name="input_firstname_hint">Prénom</string>
+    <string name="input_lastname_hint">Nom</string>
+    <string name="input_password_confirm_hint">Confirmez le Mot de Passe</string>
+    <string name="button_register">Créer un Compte</string>
+    <string name="login_register">Cliquez ici pour créer un compte</string>
+    <string name="register_login">Cliquez ici pour vous connecter</string>
+    <string name="ranking_label">"Rang : "</string>
+</resources>
